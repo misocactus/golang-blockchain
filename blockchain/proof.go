@@ -7,7 +7,7 @@ package blockchain
 
 //create a hash of the data plus the counter
 
-//check the hash to see if it mees a set of requirements
+//check the hash to see if it meets a set of requirements
 
 //Requirements:
 //The First few bytes much contain 0s
